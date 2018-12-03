@@ -6,3 +6,4 @@ Le projet de documentation en français de la manière de contribuer à WordPres
 | --------------- | --------------------- |
 | [@audrasjb](https://github.com/audrasjb) | [@audrasjb](https://profiles.wordpress.org/audrasjb) |
 | [@anybodesign](https://github.com/anybodesign) | [@anybodesign](https://profiles.wordpress.org/anybodesign) |
+| [@imath](https://github.com/imath) | [@imath](https://profiles.wordpress.org/imath) |
