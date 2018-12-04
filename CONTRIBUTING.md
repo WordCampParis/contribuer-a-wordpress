@@ -44,7 +44,7 @@ L'écran ci-dessus apparaîtra pendant le processus de clonage et vous pouvez d'
 
 Dés que vous verrez apparaître l'écran ci-dessus, cliquez sur le fichier `CONTRIBUTORS.md` de la liste pour l'afficher.
 
-###Modifier le fichier listant les contributeur·rice·s
+### Modifier le fichier listant les contributeur·rice·s
 
 ![Open file](https://dl.dropboxusercontent.com/s/6ojug7wlpw86xno/04-edit-contributors.png)
 
@@ -58,7 +58,7 @@ Pour mettre en forme les fichiers, GitHub utilise la syntaxe [MarkDown](https://
 
 Collez alors le contenu de votre presse-papier avant de remplacer les éléments insérés par vos données personnelles. Il s'agit de remplacer ce qui est entre crochets par vos noms d'utilisateur·rice et ce qui est entre parenthèses par les URL de vos profils d'utilisateur·rice, et ce sur chacun des sites : d'abord GitHub.com, puis WordPress.org. Une fois que c'est fait, vous pouvez vérifier le résultat en cliquant sur l'onglet "Preview changes" de l'interface.
 
-###Valider les modifications (commit)
+### Valider les modifications (commit)
 
 ![Prepare commit](https://dl.dropboxusercontent.com/s/4sy31yyp105jcsw/07-commit-contributors.png)
 
@@ -120,7 +120,7 @@ Bravo ! Votre demande de modification a été fusionnée dans la branche "master
 
 Comme vous aviez référencé la tâche numéro 4 dans votre demande de modification, vous pourrez constater que le descriptif de cette tâche s'est enrichit d'une information concernant cette fusion.
 
-###Maintenir son "fork" à jour
+### Maintenir son "fork" à jour
 
 Si vous affichez la page d'accueil de votre "fork", vous constaterez que sa branche "master" n'est plus identique à celle de WordCampParis : c'est normal, vu qu'on vient de lui ajouter vos noms d'utilisateur·rice !
 
