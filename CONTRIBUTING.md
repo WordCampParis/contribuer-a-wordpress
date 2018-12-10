@@ -160,3 +160,17 @@ Il ne vous reste plus qu'à confirmer la fusion des deux branches en cliquant su
 
 Bravo ! Votre fork est bien synchronisé avec le dépôt de WordCampParis, vous pouvez créer d'autres modifications dans une nouvelle branche comme vu plus tôt avec l'exemple de l'insertion de vos noms d'utilisateurs dans le fichier `CONTRIBUTORS.md`.
 
+### L'ajout d'un nouveau fichier au projet
+
+Dans le cas où vous avez besoin de créer un fichier, le début de la démarche varie légèrement par rapport à celle décrite pour la [modification d'un fichier existant](#modifier-le-fichier-listant-les-contributeurrices).
+
+![New file](https://dl.dropboxusercontent.com/s/zyvumg196nqourl/create-new-file.png)
+
+Au lieu de cliquer sur l'un des fichiers de la liste, il s'agit de cliquer sur le bouton "Create New File" comme indiqué par la flèche bleue. Vous atteignez alors l'interface d'édition qui cette fois-ci intègre un champ texte juste au dessus de l'éditeur pour vous permettre d'indiquer le nom du fichier.
+
+![Edit New file](https://dl.dropboxusercontent.com/s/b3v0v8u82p77iqf/edit-new-file.png)
+
+Comme vous pouvez le voir, le nom du fichier pour notre exemple est `domaines-de-contributions.md` (`.md` est l'extension pour les fichiers texte utilisant la syntaxe MarkDown). Au moment de valider, il suffira de bien se rappeler de rattacher la modification à une nouvelle branche en prévision d'une future "pull request" sur le [dépôt forké](#faire-une-pull-request-demande-de-changement-sur-le-dépôt-forké) (`WordCampParis/contribuer-a-wordpress` dans notre cas).
+
+![Commit New file](https://dl.dropboxusercontent.com/s/2fsbi89at1y48t0/commit-new-file.png)
+
