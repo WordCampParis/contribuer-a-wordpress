@@ -8,3 +8,4 @@ Le projet de documentation en français de la manière de contribuer à WordPres
 | [@anybodesign](https://github.com/anybodesign) | [@anybodesign](https://profiles.wordpress.org/anybodesign) |
 | [@imath](https://github.com/imath) | [@imath](https://profiles.wordpress.org/imath) |
 | [@Em-m](https://github.com/Em-m) | [@Em-m](https://profiles.wordpress.org/Em-m) |
+| [@sebastienserre](https://github.com/sebastienserre) | [@sebastienserre](https://profiles.wordpress.org/sebastienserre) |
