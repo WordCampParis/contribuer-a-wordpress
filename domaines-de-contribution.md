@@ -1,6 +1,6 @@
 # Domaines de contribution à WordPress
 
-<!--A compléter à partir de la présentation de @audrasjb (https://2019.paris.wordcamp.org/2018/11/21/atelier-contribuer-a-wordpress/) et de la page du Make (https://make.wordpress.org). -->
+<!--A compléter à partir de la présentation de @audrasjb (https://2019.paris.wordcamp.org/2018/11/21/atelier-contribuer-a-wordpress/), de la page du Make (https://make.wordpress.org) ou encore de cette traduction d'une présentation partagée sur le Make #marketing (https://cldup.com/Z3_2dnA7qC.pdf) -->
 
 ## Coeur
 
