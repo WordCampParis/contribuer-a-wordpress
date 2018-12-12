@@ -8,5 +8,9 @@ Si vous ne savez pas par où commencer, nous vous invitons à prendre connaissan
 
 Lien vers [domaines-de-contribution.md](domaines-de-contribution.md).
 
+## Ressources
+Voici une liste de ressources consacrées à la contribution.
+Lien vers [ressources.md](ressources.md)
+
 
 Bonne contribution à tous.
