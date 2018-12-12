@@ -16,6 +16,13 @@ Lien vers [domaines-de-contribution.md](domaines-de-contribution.md).
 Voici une liste de ressources consacrées à la contribution.
 Lien vers [ressources.md](ressources.md)
 
+## Slacks
+Les discussions autour du développement de WordPress ont lieu sur Slack.
+[Obtenir un accès au Slack "Make WordPress"](https://make.wordpress.org/chat/) \[en]
+
+Une chaine #contribution existe également sur le Slack WordPress-fr.
+[Obtenir une invitation](https://wpfr.net/slack/)
+
 ## Remerciements
 Merci à tous les [contributeurs](CONTRIBUTORS.md) de ce projet.
 
