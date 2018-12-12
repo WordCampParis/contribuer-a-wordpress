@@ -3,8 +3,8 @@
 Projet de documentation sur la contribution à WordPress
 
 ## Introduction
-Vous ne savez pas par ou commencer ? lisez le [contributing.md](CONTRIBUTING.md)
-Sachez qu'il s'agit d'une convention et que la plupart des projets Open-Sources propose un fichier "contributing" pour expliquer comment contribuer  au projet.
+Vous ne savez pas par où commencer ? Lisez le [CONTRIBUTING.md](CONTRIBUTING.md)
+Sachez qu'il s'agit d'une convention et que la plupart des projets Open-Sources propose un fichier "CONTRIBUTING" pour expliquer comment contribuer  au projet.
 
 ## Domaines de Contribution
 
