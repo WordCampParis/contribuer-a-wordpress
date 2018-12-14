@@ -9,11 +9,10 @@ L'équipe de contribution au cœur (« Core » en anglais) de WordPress mainti
 [Accéder aux publications de l'équipe cœur](https://make.wordpress.org/core/).
 
 ## Traduction
-L'équipe francophone de traduction à rédigé une liste de recommandation et d'aides.
-[Traduire WordPress en français](https://fr.wordpress.org/team/)
+L'équipe francophone de traduction à rédigé une liste de recommandation et d'aides : [Traduire WordPress en français](https://fr.wordpress.org/team/)
 
 WordPress est développé en anglais, langue internationale comprise par les développeurs répartis aux 4 coins du globe.
-Afin de proposer l'écosystème en français, une équipe de bénévoles s'attele à traduire:
+Afin de proposer l'écosystème en français, une équipe de bénévoles s'attele à traduire :
 - Le cœur de WordPress,
 - Les extensions présentes sur de dépôt officiel WordPress,
 - Les thèmes présents sur de dépôt officiel WordPress,
