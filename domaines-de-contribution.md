@@ -18,3 +18,5 @@ Afin de proposer l'écosystème en français, une équipe de bénévoles s'attel
 - Les extensions présentes sur de dépôt officiel WordPress,
 - Les thèmes présents sur de dépôt officiel WordPress,
 - Les sites de l'écosysteme
+
+Vous comprenez l'anglais, vous vous exprimez dans un français correct, vous pouvez rejoindre l'équipe.
