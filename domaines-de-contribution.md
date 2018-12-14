@@ -7,3 +7,7 @@
 L'équipe de contribution au coeur ("Core" en anglais) de WordPress maintient le code du logiciel. Elle vous accueille volontiers, quelque soit votre niveau de développement. Vous pouvez lui rapporter des anomalies, des propositions d'évolution ou même participer aux débats et aux décisions.
 
 [Accéder aux publications de l'équipe Core](https://make.wordpress.org/core/).
+
+## Traduction
+L'équipe francophone de traduction à rédigé une liste de recommandation et d'aides.
+[Traduire WordPress en français](https://fr.wordpress.org/team/)
