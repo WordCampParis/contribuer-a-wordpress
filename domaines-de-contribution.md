@@ -13,4 +13,5 @@ L'équipe de contribution au cœur (« Core » en anglais) de WordPress mainti
 WordPress est utilisé partout dans le monde et dans de nombreuses langues. Si vous êtes polyglotte, vous pouvez aider à traduire WordPress dans votre langue. Vous pouvez également contribuer à la création d'outils qui simplifient la traduction.
 
 [Accéder aux ressources sur la traduction française](polyglottes/traduction-francaise.md)
+
 [Accéder aux actualités sur Make WordPress](https://make.wordpress.org/polyglots/)
