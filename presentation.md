@@ -1,0 +1,1 @@
+# Présentation de ce qu'est une journée de contribution
