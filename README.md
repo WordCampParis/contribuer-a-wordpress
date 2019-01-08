@@ -5,6 +5,11 @@ Projet de documentation sur la contribution à WordPress
 ## Introduction
 Vous ne savez pas par où commencer ? Lisez le [CONTRIBUTING.md](CONTRIBUTING.md). Sachez qu'il s'agit d'une convention et que la plupart des projets open source propose un fichier "CONTRIBUTING.md" positionné à la racine de leur dépôt GitHub afin d'expliquer comment contribuer au projet.
 
+## Qu'est ce qu'une journée de contribution ?
+Pour ceux qui ne savent pas ce qu'est une journée de contribution, nous avons rédigé une note succinte explicative.
+
+Lien vers [presentation.md](presentation.md).
+
 ## Domaines de Contribution
 
 WordPress organise ses équipes de contribution en domaines que nous vous invitons à parcourir pour identifier ceux sur lesquels vous avez envie d'investir de votre temps et de votre énergie.
