@@ -57,3 +57,7 @@ vagrant ssh
 cd /srv/www/wordpress-trunk/bin/
 ./develop_git
 ```
+Pour sortir du "mode SSH", saisissez:  
+```bash
+exit
+```
