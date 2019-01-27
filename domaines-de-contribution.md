@@ -7,7 +7,7 @@ Chacun des domaines de contribution à WordPress est organisé et encadré par u
 ## Accessibilité
 
 L’équipe de contribution en charge de l'accessibilité est chargée de l’expertise en matière d’accessibilité du
-projet et travaille à l’amélioration de l’accessibilité du cœur de WordPress core et de ses ressources.
+projet et travaille à l’amélioration de l’accessibilité du cœur de WordPress et de ses ressources.
 
 [Accéder aux publications de l’équipe « Accessibility »](https://make.wordpress.org/accessibility/)
 
@@ -61,7 +61,7 @@ L’équipe « Plugins » assure le gardiennage et évalue toute nouvelle extens
 
 ## Formations
 
-L'équipe « Training » crée des plans de cours téléchargeables et du matériel s’y rapportant pour les formateur·rice·s. Si vous aimez enseigner comment utiliser et construire des chosespour WordPress, rejoignez cette équipe !
+L'équipe « Training » crée des plans de cours téléchargeables et du matériel s’y rapportant pour les formateur·rice·s. Si vous aimez enseigner comment utiliser et construire des choses pour WordPress, rejoignez cette équipe !
 
 [Accéder aux publications de l’équipe « Training »](https://make.wordpress.org/training/)
 
