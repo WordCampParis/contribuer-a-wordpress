@@ -6,3 +6,4 @@
 - Traduction d'une présentation partagée sur le [Make #marketing](https://cldup.com/Z3_2dnA7qC.pdf).
 - "Comment traduire un thème (ou une extension) WordPress" par [Yoav Farhi](https://profiles.wordpress.org/yoavf/) au WordCamp Nice 2018 - [WordPress.tv](https://wordpress.tv/2018/12/02/yoav-farhi-comment-traduire-un-theme-ou-une-extension-wordpress/)
 - [Mon premier "Contributor day" lors du Wordcamp Europe 2017](https://arnaudban.me/2017/06/15/contribuer-core-de-wordpress/) par Arnaud Banvillet
+- https://tracsearch.wpteamhub.com/ by @earnjam (wordpress.slack.com)
