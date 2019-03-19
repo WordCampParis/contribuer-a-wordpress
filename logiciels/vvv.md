@@ -21,14 +21,13 @@ vagrant plugin install vagrant-hostsupdater
 Clonez le dépôt master de VVV grâce à cette ligne de commande :
 
 ```bash
-git clone -b master git://github.com/Varying-Vagrant-Vagrants/VVV.git ~/vagrant-local
+git clone -b master git://github.com/Varying-Vagrant-Vagrants/VVV.git ./vagrant-local
 ```
 
-Positionnez-vous dans le répertoire `vagrant-local` puis effectuez une copie du fichier `vvv-config.yml` pour le coller sous le nom de `vvv-custom.yml`. C'est depuis ce deuxième fichier que vous pourrez éventuellement adapter la configuration de VVV.
+Positionnez-vous dans le répertoire `vagrant-local` (au lancement de Vagrant, le fichier `vvv-config.yml` sera automatiquement copié vers `vvv-custom.yml`, dans lequel vous pourrez éventuellement adapter la configuration de VVV.
 
 ```bash
 cd ~/vagrant-local
-cp vvv-config.yml vvv-custom.yml
 ```
 
 Lancez VVV pour créer la machine virtuelle.
@@ -37,7 +36,7 @@ Lancez VVV pour créer la machine virtuelle.
 vagrant up
 ```
 
-Une fois la série de commande terminée, vérifiez votre installation en vous rendant sur `http://vvv.test` ou `https://vvv.test` `*`.
+Une fois la série de commande terminée, vérifiez votre installation en vous rendant sur `http://vvv.test` ou `https://vvv.test`.
 
 ![Dashboard VVV](https://dl.dropboxusercontent.com/s/5w6x370wh1wc7w4/vvv.png)
 
