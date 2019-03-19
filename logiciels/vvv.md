@@ -31,6 +31,7 @@ cd ~/vagrant-local
 ```
 
 Lancez VVV pour créer la machine virtuelle.
+(attention, sous Windows, il faut lancer l'invite de commandes via un clic droit puis "Exécuter en tant qu'administrateur")
 
 ```bash
 vagrant up
