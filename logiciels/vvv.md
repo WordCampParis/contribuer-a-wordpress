@@ -15,6 +15,7 @@ Installez l'extension Host Updater grâce à cette ligne de commande :
 ```bash
 vagrant plugin install vagrant-hostsupdater
 ```
+(attention, sous Windows, il faut lancer l'invite de commandes que vous allez utiliser tout au long de ce tutoriel via un clic droit puis "Exécuter en tant qu'administrateur")
 
 ## Installer VVV
 
@@ -27,12 +28,10 @@ git clone -b master git://github.com/Varying-Vagrant-Vagrants/VVV.git ./vagrant-
 Positionnez-vous dans le répertoire `vagrant-local` (au lancement de Vagrant, le fichier `vvv-config.yml` sera automatiquement copié vers `vvv-custom.yml`, dans lequel vous pourrez éventuellement adapter la configuration de VVV.
 
 ```bash
-cd ~/vagrant-local
+cd ./vagrant-local
 ```
 
 Lancez VVV pour créer la machine virtuelle.
-(attention, sous Windows, il faut lancer l'invite de commandes via un clic droit puis "Exécuter en tant qu'administrateur")
-
 ```bash
 vagrant up
 ```
